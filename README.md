@@ -1,4 +1,4 @@
-Please execute the R files in the follwoing order:
+Please execute the R files in the follwoing order (and change the wd and file paths in the code):
 Branch Data:
 1. Data_collection.R
 
