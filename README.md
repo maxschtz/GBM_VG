@@ -1,7 +1,7 @@
 Please execute the R files in the follwoing order:
 Branch Data:
 1. Data_collection.R
-2. 
+
 Branch Paramteres:
 1. Stock values.R
 2. Log_Returns drift volatlilty.R
